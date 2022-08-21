@@ -154,6 +154,8 @@
    1807    1593 /usr/libexec/evolution-sour  0.1  0.0
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
+  42202   42179 git push origin main         0.1  0.0
+  42203   42172 git push origin main         0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
   42173     955 /usr/sbin/CRON -f -P         0.1  0.0
   42180     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -179,13 +181,14 @@
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  42189   42186 ps -e --format pid,ppid,cmd  0.1  0.0
+  42201   42198 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   42172   42171 /bin/bash /home/blouie1/bin  0.1  0.0
   42179   42178 /bin/bash /home/blouie1/bin  0.1  0.0
   42186   42185 /bin/bash /home/blouie1/bin  0.1  0.0
+  42198   42195 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
@@ -214,6 +217,7 @@
   42171   42168 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42178   42173 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42185   42180 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  42195   42190 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -324,13 +328,13 @@
   36897       2 [kworker/6:0-events]         0.0  0.0
   38125       2 [kworker/2:0-events]         0.0  0.0
   38748       2 [kworker/u16:5-ext4-rsv-con  0.0  0.0
-  38811       2 [kworker/1:0-kdmflush]       0.0  0.0
+  38811       2 [kworker/1:0-events]         0.0  0.0
   39182       2 [kworker/0:2-cgroup_destroy  0.0  0.0
   39207       2 [kworker/u16:1-flush-253:0]  0.0  0.0
   39592       2 [kworker/4:0-events]         0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
   40256       2 [kworker/7:1-events]         0.0  0.0
-  40666       2 [kworker/u16:0+ext4-rsv-con  0.0  0.0
+  40666       2 [kworker/u16:0-ext4-rsv-con  0.0  0.0
   40724       2 [kworker/7:2-cgroup_destroy  0.0  0.0
   40749       2 [kworker/u16:3-events_unbou  0.0  0.0
   40843       2 [kworker/0:0-kdmflush]       0.0  0.0
