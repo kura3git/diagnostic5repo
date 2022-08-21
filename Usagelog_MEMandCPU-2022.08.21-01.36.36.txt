@@ -178,11 +178,12 @@
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  44259   44255 ps -e --format pid,ppid,cmd  0.1  0.0
+  44266   44263 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   35690    2297 bash                         0.1  0.0
   44248   44246 /bin/bash /home/blouie1/bin  0.1  0.0
+  44263   44260 /bin/bash /home/blouie1/bin  0.1  0.0
   44255   44253 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
@@ -338,7 +339,7 @@
   41984       2 [kworker/u16:6-ext4-rsv-con  0.0  0.0
   42135       2 [kworker/6:1-events]         0.0  0.0
   42153       2 [kworker/3:1-events]         0.0  0.0
-  43627       2 [kworker/2:2-mm_percpu_wq]   0.0  0.0
+  43627       2 [kworker/2:2-events]         0.0  0.0
   43679       2 [kworker/u16:1-ext4-rsv-con  0.0  0.0
   43925       2 [kworker/0:1-cgroup_destroy  0.0  0.0
   43926       2 [kworker/0:3-events]         0.0  0.0
