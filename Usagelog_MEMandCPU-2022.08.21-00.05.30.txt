@@ -89,6 +89,7 @@
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
   39775    1014 gdm-session-worker [pam/gdm  0.2  0.0
   42219   42218 /usr/bin/ssh git@github.com  0.2  0.0
+  42256   42255 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
   42204   42202 /usr/bin/ssh git@github.com  0.2  0.0
   42205   42203 /usr/bin/ssh git@github.com  0.2  0.0
@@ -134,7 +135,6 @@
    1888    1593 /usr/libexec/gsd-print-noti  0.1  0.0
     826       1 /usr/libexec/accounts-daemo  0.1  0.0
     868       1 /usr/sbin/ModemManager       0.1  0.0
-  42246   42227 git commit -m added Mem and  0.1  0.0
    2235    1615 /usr/libexec/gvfsd-burn --s  0.1  0.0
    1828    1593 /usr/libexec/evolution-addr  0.1  0.0
   40009   39812 /usr/libexec/gsd-screensave  0.1  0.0
@@ -164,6 +164,7 @@
   42202   42179 git push origin main         0.1  0.0
   42203   42172 git push origin main         0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  42255   42234 git push origin main         0.1  0.0
   42213   42186 git push origin main         0.1  0.0
   42173     955 /usr/sbin/CRON -f -P         0.1  0.0
   42180     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -196,7 +197,7 @@
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
-  42247   42242 ps -e --format pid,ppid,cmd  0.1  0.0
+  42254   42251 ps -e --format pid,ppid,cmd  0.1  0.0
   42172   42171 /bin/bash /home/blouie1/bin  0.1  0.0
   42179   42178 /bin/bash /home/blouie1/bin  0.1  0.0
   42186   42185 /bin/bash /home/blouie1/bin  0.1  0.0
@@ -205,6 +206,7 @@
   42198   42195 /bin/bash /home/blouie1/bin  0.1  0.0
   42234   42232 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
+  42251   42248 /bin/bash /home/blouie1/bin  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
     882       1 /usr/bin/python3 /usr/share  0.0  0.0
