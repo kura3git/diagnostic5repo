@@ -156,6 +156,7 @@
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
   41140     955 /usr/sbin/CRON -f -P         0.1  0.0
+  41147     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
   41134     955 /usr/sbin/CRON -f -P         0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
@@ -176,12 +177,13 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41142   41138 ps -e --format pid,ppid,cmd  0.1  0.0
+  41149   41145 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   41138   41136 /bin/bash /home/blouie1/bin  0.1  0.0
+  41145   41143 /bin/bash /home/blouie1/bin  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
@@ -207,6 +209,7 @@
     984       1 /usr/sbin/kerneloops --test  0.0  0.0
   39808   39792 dbus-run-session -- gnome-s  0.0  0.0
    1594    1593 (sd-pam)                     0.0  0.0
+  41143   41140 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41136   41134 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
@@ -317,9 +320,9 @@
     696       2 [ext4-rsv-conver]            0.0  0.0
   31719       2 [kworker/3:1-cgroup_destroy  0.0  0.0
   36897       2 [kworker/6:0-events]         0.0  0.0
-  38125       2 [kworker/2:0-mm_percpu_wq]   0.0  0.0
+  38125       2 [kworker/2:0-events]         0.0  0.0
   38506       2 [kworker/1:2-events]         0.0  0.0
-  38748       2 [kworker/u16:5-events_unbou  0.0  0.0
+  38748       2 [kworker/u16:5-ext4-rsv-con  0.0  0.0
   38780       2 [kworker/2:2-cgroup_destroy  0.0  0.0
   38811       2 [kworker/1:0-events]         0.0  0.0
   38872       2 [kworker/6:1-events]         0.0  0.0
