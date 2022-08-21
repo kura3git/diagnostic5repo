@@ -155,8 +155,11 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  41884   41853 git push origin main         0.1  0.0
+  41887   41860 git push origin main         0.1  0.0
   41854     955 /usr/sbin/CRON -f -P         0.1  0.0
   41861     955 /usr/sbin/CRON -f -P         0.1  0.0
+  41879     955 /usr/sbin/CRON -f -P         0.1  0.0
   41870     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
   41849     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -178,13 +181,14 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41872   41867 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
+  41883   41877 ps -e --format pid,ppid,cmd  0.1  0.0
   41853   41851 /bin/bash /home/blouie1/bin  0.1  0.0
   41867   41865 /bin/bash /home/blouie1/bin  0.1  0.0
   41860   41859 /bin/bash /home/blouie1/bin  0.1  0.0
+  41877   41875 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
@@ -214,6 +218,8 @@
   41851   41849 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41859   41854 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41865   41861 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  41875   41870 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  41885   41879 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -345,4 +351,3 @@
   41615       2 [kworker/3:0-cgroup_destroy  0.0  0.0
   41846       2 [kworker/0:1-events]         0.0  0.0
   41847       2 [kworker/0:3]                0.0  0.0
-  41873   41853 [git] <defunct>              0.0  0.0
