@@ -155,6 +155,7 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  42512   42483 git push origin main         0.1  0.0
   42499     955 /usr/sbin/CRON -f -P         0.1  0.0
   42484     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
@@ -179,13 +180,14 @@
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  42502   42497 ps -e --format pid,ppid,cmd  0.1  0.0
+  42510   42507 ps -e --format pid,ppid,cmd  0.1  0.0
   35690    2297 bash                         0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   42483   42481 /bin/bash /home/blouie1/bin  0.1  0.0
   42490   42488 /bin/bash /home/blouie1/bin  0.1  0.0
   42497   42495 /bin/bash /home/blouie1/bin  0.1  0.0
+  42507   42504 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
@@ -345,7 +347,7 @@
   41982       2 [kworker/u16:2-flush-253:0]  0.0  0.0
   41983       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
   41984       2 [kworker/u16:6-ext4-rsv-con  0.0  0.0
-  42135       2 [kworker/6:1-mm_percpu_wq]   0.0  0.0
+  42135       2 [kworker/6:1-events]         0.0  0.0
   42140       2 [kworker/6:3-events]         0.0  0.0
   42141       2 [kworker/6:4]                0.0  0.0
   42152       2 [kworker/7:0]                0.0  0.0
