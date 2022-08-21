@@ -179,10 +179,11 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
-  47471   47466 ps -e --format pid,ppid,cmd  0.1  0.0
+  47480   47477 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   47454   47451 /bin/bash /home/blouie1/bin  0.1  0.0
+  47477   47473 /bin/bash /home/blouie1/bin  0.1  0.0
   47466   47464 /bin/bash /home/blouie1/bin  0.1  0.0
   47459   47456 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
