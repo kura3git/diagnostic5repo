@@ -155,8 +155,10 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  41566   41540 git push origin main         0.1  0.0
   41534     955 /usr/sbin/CRON -f -P         0.1  0.0
   41542     955 /usr/sbin/CRON -f -P         0.1  0.0
+  41558     955 /usr/sbin/CRON -f -P         0.1  0.0
   41548     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
   41529     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -178,11 +180,12 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41552   41547 ps -e --format pid,ppid,cmd  0.1  0.0
+  41562   41557 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
+  41557   41553 /bin/bash /home/blouie1/bin  0.1  0.0
   41533   41532 /bin/bash /home/blouie1/bin  0.1  0.0
   41540   41538 /bin/bash /home/blouie1/bin  0.1  0.0
   41547   41545 /bin/bash /home/blouie1/bin  0.1  0.0
@@ -215,6 +218,7 @@
   41538   41534 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41545   41542 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41553   41548 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  41564   41558 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -345,4 +349,3 @@
   41091       2 [kworker/2:1-cgroup_destroy  0.0  0.0
   41310       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
   41454       2 [kworker/4:2]                0.0  0.0
-  41555   41533 [git]                        0.0  0.0
