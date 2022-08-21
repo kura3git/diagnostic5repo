@@ -154,7 +154,9 @@
   39924   39917 /usr/bin/dbus-daemon --conf  0.1  0.0
   39817   39780 /usr/libexec/gvfsd-fuse /ru  0.1  0.0
   46780     955 /usr/sbin/CRON -f -P         0.1  0.0
+  46794     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
+  46787     955 /usr/sbin/CRON -f -P         0.1  0.0
    2211    1593 /usr/libexec/gvfsd-metadata  0.1  0.0
   46774     955 /usr/sbin/CRON -f -P         0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
@@ -177,10 +179,12 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
-  46782   46778 ps -e --format pid,ppid,cmd  0.1  0.0
+  46797   46793 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
+  46793   46790 /bin/bash /home/blouie1/bin  0.1  0.0
   46778   46777 /bin/bash /home/blouie1/bin  0.1  0.0
+  46785   46783 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
@@ -208,6 +212,9 @@
   39808   39792 dbus-run-session -- gnome-s  0.0  0.0
    1594    1593 (sd-pam)                     0.0  0.0
   46777   46774 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  46783   46780 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  46790   46787 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  46800   46794 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -318,12 +325,12 @@
   38811       2 [kworker/1:0-events]         0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
   40666       2 [kworker/u16:0-flush-253:0]  0.0  0.0
-  40871       2 [kworker/5:1-events]         0.0  0.0
+  40871       2 [kworker/5:1-kdmflush]       0.0  0.0
   41983       2 [kworker/u16:4-events_unbou  0.0  0.0
   42153       2 [kworker/3:1-events]         0.0  0.0
   43679       2 [kworker/u16:1-events_unbou  0.0  0.0
   44546       2 [kworker/4:1-events]         0.0  0.0
-  44848       2 [kworker/2:0-events]         0.0  0.0
+  44848       2 [kworker/2:0-kdmflush]       0.0  0.0
   45090       2 [kworker/u16:5-events_freez  0.0  0.0
   45308       2 [kworker/0:2-events]         0.0  0.0
   45360       2 [kworker/6:1-events]         0.0  0.0
@@ -335,6 +342,6 @@
   46008       2 [kworker/2:2]                0.0  0.0
   46083       2 [kworker/0:1-events]         0.0  0.0
   46123       2 [kworker/1:1]                0.0  0.0
-  46308       2 [kworker/u16:3-events_freez  0.0  0.0
+  46308       2 [kworker/u16:3-ext4-rsv-con  0.0  0.0
   46686       2 [kworker/7:0-events]         0.0  0.0
   46687       2 [kworker/7:1-events]         0.0  0.0
