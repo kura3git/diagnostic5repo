@@ -158,6 +158,7 @@
   42484     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
+  42491     955 /usr/sbin/CRON -f -P         0.1  0.0
   42479     955 /usr/sbin/CRON -f -P         0.1  0.0
    1756    1593 /usr/libexec/gvfs-mtp-volum  0.1  0.0
    2211    1593 /usr/libexec/gvfsd-metadata  0.1  0.0
@@ -177,11 +178,12 @@
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
+  42494   42490 ps -e --format pid,ppid,cmd  0.1  0.0
   35690    2297 bash                         0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
-  42487   42483 ps -e --format pid,ppid,cmd  0.1  0.0
   42483   42481 /bin/bash /home/blouie1/bin  0.1  0.0
+  42490   42488 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
@@ -209,6 +211,7 @@
    1594    1593 (sd-pam)                     0.0  0.0
   42481   42479 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42488   42484 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  42495   42491 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -337,7 +340,7 @@
   41454       2 [kworker/4:2]                0.0  0.0
   41615       2 [kworker/3:0-events]         0.0  0.0
   41982       2 [kworker/u16:2-flush-253:0]  0.0  0.0
-  41983       2 [kworker/u16:4-writeback]    0.0  0.0
+  41983       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
   41984       2 [kworker/u16:6-ext4-rsv-con  0.0  0.0
   42135       2 [kworker/6:1-mm_percpu_wq]   0.0  0.0
   42140       2 [kworker/6:3-events]         0.0  0.0
