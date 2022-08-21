@@ -155,6 +155,7 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  41649   41620 git push origin main         0.1  0.0
   41628     955 /usr/sbin/CRON -f -P         0.1  0.0
   41621     955 /usr/sbin/CRON -f -P         0.1  0.0
   41636     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -178,13 +179,14 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41639   41634 ps -e --format pid,ppid,cmd  0.1  0.0
+  41647   41644 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   41627   41626 /bin/bash /home/blouie1/bin  0.1  0.0
   41634   41632 /bin/bash /home/blouie1/bin  0.1  0.0
+  41644   41641 /bin/bash /home/blouie1/bin  0.1  0.0
   41620   41619 /bin/bash /home/blouie1/bin  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
