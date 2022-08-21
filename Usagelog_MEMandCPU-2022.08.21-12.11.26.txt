@@ -88,6 +88,7 @@
     812       1 /usr/libexec/polkitd --no-d  0.2  0.0
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
    3155    1593 /usr/bin/snap userd          0.2  0.0
+  46267   46263 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
   39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
     804       1 /usr/sbin/NetworkManager --  0.2  0.0
@@ -151,7 +152,9 @@
    1880    1593 /usr/libexec/gsd-housekeepi  0.1  0.0
    1807    1593 /usr/libexec/evolution-sour  0.1  0.0
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
+  46263   46228 git push origin main         0.1  0.0
   39924   39917 /usr/bin/dbus-daemon --conf  0.1  0.0
+  46262   46235 git push origin main         0.1  0.0
   39817   39780 /usr/libexec/gvfsd-fuse /ru  0.1  0.0
   46236     955 /usr/sbin/CRON -f -P         0.1  0.0
   46229     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -180,11 +183,12 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
-  46259   46252 ps -e --format pid,ppid,cmd  0.1  0.0
+  46268   46264 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   46235   46234 /bin/bash /home/blouie1/bin  0.1  0.0
   46242   46240 /bin/bash /home/blouie1/bin  0.1  0.0
+  46264   46261 /bin/bash /home/blouie1/bin  0.1  0.0
   46252   46249 /bin/bash /home/blouie1/bin  0.1  0.0
   46228   46227 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
@@ -222,7 +226,6 @@
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
    1004       1 /sbin/agetty -o -p -- \u --  0.0  0.0
-  46262   46235 /bin/bash /home/blouie1/bin  0.0  0.0
     847     802 avahi-daemon: chroot helper  0.0  0.0
       2       0 [kthreadd]                   0.0  0.0
       3       2 [rcu_gp]                     0.0  0.0
@@ -309,7 +312,7 @@
     263       2 [kworker/7:1H-kblockd]       0.0  0.0
     267       2 [kworker/3:1H-kblockd]       0.0  0.0
     270       2 [kworker/4:1H-kblockd]       0.0  0.0
-    272       2 [kworker/6:1H-kblockd]       0.0  0.0
+    272       2 [kworker/6:1H+kblockd]       0.0  0.0
     307       2 [kdmflush]                   0.0  0.0
     333       2 [raid5wq]                    0.0  0.0
     382       2 [jbd2/dm-0-8]                0.0  0.0
@@ -332,7 +335,7 @@
   40256       2 [kworker/7:1-cgroup_destroy  0.0  0.0
   40666       2 [kworker/u16:0-events_freez  0.0  0.0
   40843       2 [kworker/0:0-cgroup_destroy  0.0  0.0
-  40871       2 [kworker/5:1-kdmflush]       0.0  0.0
+  40871       2 [kworker/5:1-events]         0.0  0.0
   41091       2 [kworker/2:1-cgroup_destroy  0.0  0.0
   41983       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
   42153       2 [kworker/3:1-events]         0.0  0.0
@@ -344,7 +347,7 @@
   45075       2 [kworker/7:0-events]         0.0  0.0
   45090       2 [kworker/u16:5-ext4-rsv-con  0.0  0.0
   45308       2 [kworker/0:2-events]         0.0  0.0
-  45360       2 [kworker/6:1-events]         0.0  0.0
+  45360       2 [kworker/6:1-kdmflush]       0.0  0.0
   45428       2 [kworker/4:2-events]         0.0  0.0
   45521       2 [kworker/7:2-events]         0.0  0.0
   45911       2 [kworker/3:2-events]         0.0  0.0
