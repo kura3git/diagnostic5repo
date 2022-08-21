@@ -84,7 +84,9 @@
     812       1 /usr/libexec/polkitd --no-d  0.2  0.0
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
   39775    1014 gdm-session-worker [pam/gdm  0.2  0.0
+  41569   41566 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
+  41571   41567 /usr/bin/ssh git@github.com  0.2  0.0
   39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
    2116    1693 /usr/libexec/evolution-data  0.2  0.0
     804       1 /usr/sbin/NetworkManager --  0.2  0.0
@@ -155,6 +157,7 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  41567   41533 git push origin main         0.1  0.0
   41566   41540 git push origin main         0.1  0.0
   41534     955 /usr/sbin/CRON -f -P         0.1  0.0
   41542     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -180,12 +183,13 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41562   41557 ps -e --format pid,ppid,cmd  0.1  0.0
+  41573   41570 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   41557   41553 /bin/bash /home/blouie1/bin  0.1  0.0
+  41570   41564 /bin/bash /home/blouie1/bin  0.1  0.0
   41533   41532 /bin/bash /home/blouie1/bin  0.1  0.0
   41540   41538 /bin/bash /home/blouie1/bin  0.1  0.0
   41547   41545 /bin/bash /home/blouie1/bin  0.1  0.0
