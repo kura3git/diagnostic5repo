@@ -44,8 +44,8 @@
   36651    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
   32345    6250 /snap/firefox/1671/usr/lib/  0.9  0.0
     510       1 /sbin/multipathd -d -s       0.8  0.0
+    462       1 /lib/systemd/systemd-journa  0.8  0.0
   38821    6250 /snap/firefox/1671/usr/lib/  0.8  0.0
-    462       1 /lib/systemd/systemd-journa  0.7  0.0
    1961    1729 /usr/bin/Xwayland :0 -rootl  0.7  0.8
   36788    6250 /snap/firefox/1671/usr/lib/  0.7  0.0
   40095       1 /usr/bin/gjs /usr/share/gno  0.6  0.0
@@ -156,6 +156,8 @@
   46386     955 /usr/sbin/CRON -f -P         0.1  0.0
   46394     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
+  46404     955 /usr/sbin/CRON -f -P         0.1  0.0
+  46407     955 /usr/sbin/CRON -f -P         0.1  0.0
    2211    1593 /usr/libexec/gvfsd-metadata  0.1  0.0
   46382     955 /usr/sbin/CRON -f -P         0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
@@ -178,11 +180,12 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
-  46398   46393 ps -e --format pid,ppid,cmd  0.1  0.0
+  46409   46403 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
-  46393   46391 /bin/bash /home/blouie1/bin  0.1  0.0
   46388   46385 /bin/bash /home/blouie1/bin  0.1  0.0
+  46393   46391 /bin/bash /home/blouie1/bin  0.1  0.0
+  46403   46401 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
@@ -210,6 +213,8 @@
   39808   39792 dbus-run-session -- gnome-s  0.0  0.0
    1594    1593 (sd-pam)                     0.0  0.0
   46391   46386 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  46412   46404 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  46414   46407 /bin/sh -c /home/blouie1/bi  0.0  0.0
   46385   46382 /bin/sh -c /home/blouie1/bi  0.0  0.0
   46401   46394 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
@@ -323,7 +328,7 @@
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
   40666       2 [kworker/u16:0-events_unbou  0.0  0.0
   40843       2 [kworker/0:0-cgroup_destroy  0.0  0.0
-  40871       2 [kworker/5:1-kdmflush]       0.0  0.0
+  40871       2 [kworker/5:1-events]         0.0  0.0
   41091       2 [kworker/2:1-cgroup_destroy  0.0  0.0
   41983       2 [kworker/u16:4-flush-253:0]  0.0  0.0
   42153       2 [kworker/3:1-events]         0.0  0.0
