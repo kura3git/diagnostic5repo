@@ -1,0 +1,338 @@
+    PID    PPID CMD                         %MEM %CPU
+  17231    6250 /snap/firefox/1671/usr/lib/ 16.5  1.2
+   6250    1729 /snap/firefox/1671/usr/lib/ 12.6 10.6
+   1729    1593 /usr/bin/gnome-shell         5.3 16.2
+  32799    6250 /snap/firefox/1671/usr/lib/  3.9  0.7
+  39832   39812 /usr/bin/gnome-shell         3.6  0.6
+  35605    6250 /snap/firefox/1671/usr/lib/  3.5  2.7
+  32854    6250 /snap/firefox/1671/usr/lib/  3.2  1.3
+  30644    6250 /snap/firefox/1671/usr/lib/  2.8  0.3
+   6444    6250 /snap/firefox/1671/usr/lib/  2.5  0.1
+  32807    6250 /snap/firefox/1671/usr/lib/  2.3  1.1
+  35249    6250 /snap/firefox/1671/usr/lib/  2.1  0.1
+  33239    6250 /snap/firefox/1671/usr/lib/  2.0  0.0
+  32073    6250 /snap/firefox/1671/usr/lib/  1.9  0.4
+  32990    6250 /snap/firefox/1671/usr/lib/  1.5  0.3
+  34126    6250 /snap/firefox/1671/usr/lib/  1.4  0.8
+  33668    6250 /snap/firefox/1671/usr/lib/  1.4  0.3
+  33052    6250 /snap/firefox/1671/usr/lib/  1.4  0.0
+  33457    6250 /snap/firefox/1671/usr/lib/  1.2  0.0
+  33247    6250 /snap/firefox/1671/usr/lib/  1.2  0.0
+  33171    6250 /snap/firefox/1671/usr/lib/  1.2  0.0
+  33951    6250 /snap/firefox/1671/usr/lib/  1.2  0.4
+  36551    6250 /snap/firefox/1671/usr/lib/  1.2  0.0
+  33184    6250 /snap/firefox/1671/usr/lib/  1.2  0.0
+  36618    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33430    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33384    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33169    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33391    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33503    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33516    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33523    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33144    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  36545    6250 /snap/firefox/1671/usr/lib/  1.1  0.0
+  33714    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  33000    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  33645    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  33622    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  37751    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  36498    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  33879    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  36651    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+  40093       1 /usr/bin/spice-vdagent       1.0  0.0
+  32345    6250 /snap/firefox/1671/usr/lib/  1.0  0.0
+    462       1 /lib/systemd/systemd-journa  0.9  0.0
+  39941   39832 /usr/bin/Xwayland :1024 -ro  0.8  0.0
+  38821    6250 /snap/firefox/1671/usr/lib/  0.8  0.0
+    510       1 /sbin/multipathd -d -s       0.8  0.0
+  36788    6250 /snap/firefox/1671/usr/lib/  0.8  0.0
+   1961    1729 /usr/bin/Xwayland :0 -rootl  0.7  0.8
+   7505    6250 /snap/firefox/1671/usr/lib/  0.6  0.0
+  40095       1 /usr/bin/gjs /usr/share/gno  0.6  0.0
+  39997   39812 /usr/libexec/gsd-media-keys  0.5  0.0
+  39979   39812 /usr/libexec/gsd-color       0.5  0.0
+  39962       1 /usr/bin/gjs /usr/share/gno  0.5  0.0
+  40020   39812 /usr/libexec/gsd-power       0.5  0.0
+   2297    1593 /usr/libexec/gnome-terminal  0.5  0.4
+  39856   39780 /usr/libexec/goa-daemon      0.5  0.0
+  39836   39780 /usr/libexec/tracker-miner-  0.4  0.0
+  39969   39812 /usr/libexec/gsd-wacom       0.4  0.0
+  39790   39780 /usr/bin/pulseaudio --daemo  0.4  0.0
+  39981   39812 /usr/libexec/gsd-keyboard    0.4  0.0
+   1644    1593 /usr/libexec/tracker-miner-  0.4  0.0
+    816       1 /usr/lib/snapd/snapd         0.3  0.0
+   2044    1593 /usr/libexec/xdg-desktop-po  0.3  0.0
+  39990   39812 /usr/libexec/gsd-datetime    0.3  0.0
+  42142       1 /usr/sbin/cupsd -l           0.3  0.0
+  39812   39808 /usr/libexec/gnome-session-  0.3  0.0
+   2131    1693 /usr/bin/gnome-software --g  0.3  0.0
+  39863   39780 /usr/libexec/goa-identity-s  0.3  0.0
+   2022    1593 /usr/bin/gjs /usr/share/gno  0.3  0.0
+   3155    1593 /usr/bin/snap userd          0.2  0.0
+   1389       1 /usr/libexec/colord          0.2  0.0
+   1869    1593 /usr/libexec/gsd-color       0.2  0.0
+   8072    6250 /snap/firefox/1671/usr/lib/  0.2  0.2
+  39780       1 /lib/systemd/systemd --user  0.2  0.0
+  40073       1 /usr/libexec/gsd-printer     0.2  0.0
+   1607    1593 /usr/bin/dbus-daemon --sess  0.2  0.0
+      1       0 /sbin/init                   0.2  0.0
+   1593       1 /lib/systemd/systemd --user  0.2  0.0
+   2018    1593 /usr/libexec/gsd-xsettings   0.2  0.0
+  42143       1 /usr/sbin/cups-browsed       0.2  0.0
+  39847   39780 /usr/libexec/gvfs-udisks2-v  0.2  0.0
+   2747    1693 update-notifier              0.2  0.0
+  39983   39812 /usr/libexec/gsd-print-noti  0.2  0.0
+   2116    1693 /usr/libexec/evolution-data  0.2  0.0
+  39775    1014 gdm-session-worker [pam/gdm  0.2  0.0
+    812       1 /usr/libexec/polkitd --no-d  0.2  0.0
+   1935    1593 /usr/bin/spice-vdagent       0.2  0.0
+   1885    1593 /usr/libexec/gsd-power       0.2  0.0
+   1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
+  39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
+    804       1 /usr/sbin/NetworkManager --  0.2  0.0
+  40013   39812 /usr/libexec/gsd-sound       0.2  0.0
+   2102    1593 /usr/libexec/xdg-desktop-po  0.2  0.0
+  39868   39780 /usr/libexec/gvfs-afc-volum  0.2  0.0
+   1014       1 /usr/sbin/gdm3               0.2  0.0
+   1694    1593 /usr/libexec/gvfs-udisks2-v  0.2  0.0
+    833       1 /usr/libexec/udisks2/udisks  0.1  0.0
+   1956    1910 /usr/libexec/ibus-extension  0.1  0.0
+  39986   39812 /usr/libexec/gsd-smartcard   0.1  0.0
+    803       1 @dbus-daemon --system --add  0.1  0.0
+   1995    1593 /usr/libexec/xdg-desktop-po  0.1  0.0
+   1603    1593 /usr/bin/pulseaudio --daemo  0.1  0.0
+   1693    1593 /usr/libexec/gnome-session-  0.1  0.0
+   1815    1593 /usr/libexec/evolution-cale  0.1  0.0
+   1580    1014 gdm-session-worker [pam/gdm  0.1  0.0
+   1882    1593 /usr/libexec/gsd-keyboard    0.1  0.0
+   1246       1 /usr/libexec/packagekitd     0.1  0.0
+  40019   39812 /usr/libexec/gsd-housekeepi  0.1  0.0
+   6403    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
+  39810   39780 /usr/libexec/gvfsd           0.1  0.0
+  39963       1 /usr/libexec/at-spi2-regist  0.1  0.0
+   2071    1593 /usr/libexec/ibus-x11        0.1  0.0
+  39917       1 /usr/libexec/at-spi-bus-lau  0.1  0.0
+  39874   39780 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
+   1900    1593 /usr/libexec/gsd-wacom       0.1  0.0
+    829       1 /lib/systemd/systemd-logind  0.1  0.0
+  39985   39812 /usr/libexec/gsd-rfkill      0.1  0.0
+  40016   39812 /usr/libexec/gsd-a11y-setti  0.1  0.0
+  39788   39780 /usr/bin/pipewire            0.1  0.0
+  39895   39780 /usr/libexec/gvfs-mtp-volum  0.1  0.0
+  39852   39780 /usr/libexec/gvfs-goa-volum  0.1  0.0
+   1842    1615 /usr/libexec/gvfsd-trash --  0.1  0.0
+  39789   39780 /usr/bin/pipewire-media-ses  0.1  0.0
+   1610       1 /usr/bin/gnome-keyring-daem  0.1  0.0
+   1910    1866 /usr/bin/ibus-daemon --pane  0.1  0.1
+    826       1 /usr/libexec/accounts-daemo  0.1  0.0
+   1888    1593 /usr/libexec/gsd-print-noti  0.1  0.0
+    868       1 /usr/sbin/ModemManager       0.1  0.0
+   2235    1615 /usr/libexec/gvfsd-burn --s  0.1  0.0
+   1828    1593 /usr/libexec/evolution-addr  0.1  0.0
+  40009   39812 /usr/libexec/gsd-screensave  0.1  0.0
+   2017    1593 /usr/libexec/xdg-document-p  0.1  0.0
+  39809   39808 dbus-daemon --nofork --prin  0.1  0.0
+   1706    1593 /usr/libexec/goa-daemon      0.1  0.0
+   1870    1593 /usr/libexec/gsd-datetime    0.1  0.0
+  39949       1 /usr/libexec/xdg-permission  0.1  0.0
+   1798    1593 /usr/libexec/gnome-shell-ca  0.1  0.0
+   1982    1593 /usr/libexec/gsd-printer     0.1  0.0
+  39794   39780 /usr/bin/dbus-daemon --sess  0.1  0.0
+  20019    1615 /usr/libexec/gvfsd-dnssd --  0.1  0.0
+   1896    1593 /usr/libexec/gsd-sound       0.1  0.0
+    779       1 /lib/systemd/systemd-resolv  0.1  0.0
+  39792   39775 /usr/libexec/gdm-wayland-se  0.1  0.0
+   1194       1 /usr/libexec/upowerd         0.1  0.0
+   1858    1593 /usr/libexec/at-spi2-regist  0.1  0.0
+    813       1 /usr/libexec/power-profiles  0.1  0.0
+   1721    1693 /usr/libexec/at-spi-bus-lau  0.1  0.0
+   1880    1593 /usr/libexec/gsd-housekeepi  0.1  0.0
+   1615    1593 /usr/libexec/gvfsd           0.1  0.0
+   1807    1593 /usr/libexec/evolution-sour  0.1  0.0
+   1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
+  39817   39780 /usr/libexec/gvfsd-fuse /ru  0.1  0.0
+   1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
+  50377     955 /usr/sbin/CRON -f -P         0.1  0.0
+   1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
+   2211    1593 /usr/libexec/gvfsd-metadata  0.1  0.0
+   1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+   1756    1593 /usr/libexec/gvfs-mtp-volum  0.1  0.0
+  39924   39917 /usr/bin/dbus-daemon --conf  0.1  0.0
+   1742    1593 /usr/libexec/gvfs-afc-volum  0.1  0.0
+   1702    1593 /usr/libexec/gvfs-goa-volum  0.1  0.0
+  39781   39780 (sd-pam)                     0.1  0.0
+   1893    1593 /usr/libexec/gsd-screensave  0.1  0.0
+   1432       1 /usr/sbin/spice-vdagentd     0.1  0.0
+    827       1 /usr/libexec/switcheroo-con  0.1  0.0
+   1868    1593 /usr/libexec/gsd-a11y-setti  0.1  0.0
+   1959    1593 /usr/libexec/ibus-portal     0.1  0.0
+    811       1 /usr/bin/python3 /usr/bin/n  0.1  0.0
+    777       1 /lib/systemd/systemd-networ  0.1  0.0
+   1895    1593 /usr/libexec/gsd-smartcard   0.1  0.0
+   1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
+   1826    1593 /usr/libexec/dconf-service   0.1  0.0
+   1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
+    814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
+  20005    1615 /usr/libexec/gvfsd-network   0.1  0.0
+   1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
+  50383   50381 ps -e --format pid,ppid,cmd  0.1  0.0
+    732       1 /lib/systemd/systemd-timesy  0.1  0.0
+   1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
+  50381   50380 /bin/bash /home/blouie1/bin  0.1  0.0
+   8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
+   1633    1630 /usr/libexec/gnome-session-  0.1  0.0
+    802       1 avahi-daemon: running [kura  0.1  0.0
+    882       1 /usr/bin/python3 /usr/share  0.0  0.0
+    730       1 /lib/systemd/systemd-oomd    0.0  0.2
+   1601    1593 /usr/bin/pipewire            0.0  0.0
+    512       1 /lib/systemd/systemd-udevd   0.0  0.0
+   1602    1593 /usr/bin/pipewire-media-ses  0.0  0.0
+   1113       1 /usr/libexec/rtkit-daemon    0.0  0.0
+  35690    2297 bash                         0.0  0.0
+   1796    1593 /usr/libexec/xdg-permission  0.0  0.0
+   2119    1693 /usr/libexec/gsd-disk-utili  0.0  0.0
+   2353    2297 bash                         0.0  0.0
+    809       1 /usr/sbin/irqbalance --fore  0.0  0.0
+    834       1 /sbin/wpa_supplicant -u -s   0.0  0.0
+   1953    1910 /usr/libexec/ibus-memconf    0.0  0.0
+    977       1 sshd: /usr/sbin/sshd -D [li  0.0  0.0
+  32521    2297 bash                         0.0  0.0
+  34216    1610 /usr/bin/ssh-agent -D -a /r  0.0  0.0
+    862       1 /usr/bin/python3 /usr/bin/g  0.0  0.0
+    955       1 /usr/sbin/cron -f -P         0.0  0.0
+   1620    1593 /usr/libexec/gvfsd-fuse /ru  0.0  0.0
+   1005       1 /usr/sbin/kerneloops         0.0  0.0
+    984       1 /usr/sbin/kerneloops --test  0.0  0.0
+  39808   39792 dbus-run-session -- gnome-s  0.0  0.0
+   1594    1593 (sd-pam)                     0.0  0.0
+  50380   50377 /bin/sh -c /home/blouie1/bi  0.0  0.0
+   2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
+   1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
+   1680    1593 /usr/libexec/gnome-session-  0.0  0.0
+   1004       1 /sbin/agetty -o -p -- \u --  0.0  0.0
+    847     802 avahi-daemon: chroot helper  0.0  0.0
+      2       0 [kthreadd]                   0.0  0.0
+      3       2 [rcu_gp]                     0.0  0.0
+      4       2 [rcu_par_gp]                 0.0  0.0
+      5       2 [netns]                      0.0  0.0
+      7       2 [kworker/0:0H-events_highpr  0.0  0.0
+      9       2 [mm_percpu_wq]               0.0  0.0
+     10       2 [rcu_tasks_rude_]            0.0  0.0
+     11       2 [rcu_tasks_trace]            0.0  0.0
+     12       2 [ksoftirqd/0]                0.0  0.0
+     13       2 [rcu_sched]                  0.0  0.1
+     14       2 [migration/0]                0.0  0.0
+     15       2 [idle_inject/0]              0.0  0.0
+     17       2 [cpuhp/0]                    0.0  0.0
+     18       2 [cpuhp/1]                    0.0  0.0
+     19       2 [idle_inject/1]              0.0  0.0
+     20       2 [migration/1]                0.0  0.0
+     21       2 [ksoftirqd/1]                0.0  0.0
+     23       2 [kworker/1:0H-events_highpr  0.0  0.0
+     24       2 [cpuhp/2]                    0.0  0.0
+     25       2 [idle_inject/2]              0.0  0.0
+     26       2 [migration/2]                0.0  0.0
+     27       2 [ksoftirqd/2]                0.0  0.0
+     29       2 [kworker/2:0H-events_highpr  0.0  0.0
+     30       2 [cpuhp/3]                    0.0  0.0
+     31       2 [idle_inject/3]              0.0  0.0
+     32       2 [migration/3]                0.0  0.0
+     33       2 [ksoftirqd/3]                0.0  0.0
+     35       2 [kworker/3:0H-events_highpr  0.0  0.0
+     36       2 [cpuhp/4]                    0.0  0.0
+     37       2 [idle_inject/4]              0.0  0.0
+     38       2 [migration/4]                0.0  0.0
+     39       2 [ksoftirqd/4]                0.0  0.0
+     41       2 [kworker/4:0H-events_highpr  0.0  0.0
+     42       2 [cpuhp/5]                    0.0  0.0
+     43       2 [idle_inject/5]              0.0  0.0
+     44       2 [migration/5]                0.0  0.0
+     45       2 [ksoftirqd/5]                0.0  0.0
+     47       2 [kworker/5:0H-events_highpr  0.0  0.0
+     48       2 [cpuhp/6]                    0.0  0.0
+     49       2 [idle_inject/6]              0.0  0.0
+     50       2 [migration/6]                0.0  0.0
+     51       2 [ksoftirqd/6]                0.0  0.0
+     53       2 [kworker/6:0H-events_highpr  0.0  0.0
+     54       2 [cpuhp/7]                    0.0  0.0
+     55       2 [idle_inject/7]              0.0  0.0
+     56       2 [migration/7]                0.0  0.0
+     57       2 [ksoftirqd/7]                0.0  0.0
+     59       2 [kworker/7:0H-events_highpr  0.0  0.0
+     60       2 [kdevtmpfs]                  0.0  0.0
+     61       2 [inet_frag_wq]               0.0  0.0
+     69       2 [kauditd]                    0.0  0.0
+     70       2 [khungtaskd]                 0.0  0.0
+     71       2 [oom_reaper]                 0.0  0.0
+     72       2 [writeback]                  0.0  0.0
+     73       2 [kcompactd0]                 0.0  0.0
+     74       2 [ksmd]                       0.0  0.0
+     75       2 [khugepaged]                 0.0  0.0
+    121       2 [kintegrityd]                0.0  0.0
+    122       2 [kblockd]                    0.0  0.0
+    123       2 [blkcg_punt_bio]             0.0  0.0
+    124       2 [tpm_dev_wq]                 0.0  0.0
+    125       2 [ata_sff]                    0.0  0.0
+    126       2 [md]                         0.0  0.0
+    127       2 [edac-poller]                0.0  0.0
+    128       2 [devfreq_wq]                 0.0  0.0
+    129       2 [watchdogd]                  0.0  0.0
+    131       2 [kworker/0:1H-kblockd]       0.0  0.0
+    132       2 [kswapd0]                    0.0  0.1
+    133       2 [ecryptfs-kthrea]            0.0  0.0
+    135       2 [kthrotld]                   0.0  0.0
+    136       2 [irq/49-ACPI:Ged]            0.0  0.0
+    137       2 [acpi_thermal_pm]            0.0  0.0
+    139       2 [mld]                        0.0  0.0
+    140       2 [kworker/5:1H-kblockd]       0.0  0.0
+    141       2 [ipv6_addrconf]              0.0  0.0
+    150       2 [kstrp]                      0.0  0.0
+    153       2 [zswap-shrink]               0.0  0.0
+    154       2 [kworker/u17:0]              0.0  0.0
+    158       2 [cryptd]                     0.0  0.0
+    196       2 [charger_manager]            0.0  0.0
+    218       2 [kworker/2:1H-kblockd]       0.0  0.0
+    259       2 [kworker/1:1H-kblockd]       0.0  0.0
+    263       2 [kworker/7:1H-kblockd]       0.0  0.0
+    267       2 [kworker/3:1H-kblockd]       0.0  0.0
+    270       2 [kworker/4:1H-kblockd]       0.0  0.0
+    272       2 [kworker/6:1H-kblockd]       0.0  0.0
+    307       2 [kdmflush]                   0.0  0.0
+    333       2 [raid5wq]                    0.0  0.0
+    382       2 [jbd2/dm-0-8]                0.0  0.0
+    383       2 [ext4-rsv-conver]            0.0  0.0
+    420       2 [hwrng]                      0.0  0.0
+    490       2 [ipmi-msghandler]            0.0  0.0
+    504       2 [kaluad]                     0.0  0.0
+    506       2 [kmpath_rdacd]               0.0  0.0
+    508       2 [kmpathd]                    0.0  0.0
+    509       2 [kmpath_handlerd]            0.0  0.0
+    587       2 [scsi_eh_0]                  0.0  0.0
+    595       2 [scsi_tmf_0]                 0.0  0.0
+    597       2 [usb-storage]                0.0  0.0
+    632       2 [uas]                        0.0  0.0
+    695       2 [jbd2/vda2-8]                0.0  0.0
+    696       2 [ext4-rsv-conver]            0.0  0.0
+  38811       2 [kworker/1:0-cgwb_release]   0.0  0.0
+  40871       2 [kworker/5:1-cgroup_destroy  0.0  0.0
+  45090       2 [kworker/u16:5-flush-253:0]  0.0  0.0
+  45911       2 [kworker/3:2-events]         0.0  0.0
+  45952       2 [kworker/6:3-cgroup_destroy  0.0  0.0
+  46008       2 [kworker/2:2-cgroup_destroy  0.0  0.0
+  46845       2 [kworker/4:0-cgroup_destroy  0.0  0.0
+  47129       2 [kworker/5:2-events]         0.0  0.0
+  47346       2 [kworker/0:0-events]         0.0  0.0
+  47980       2 [kworker/1:1-cgroup_destroy  0.0  0.0
+  48226       2 [kworker/7:2-cgroup_destroy  0.0  0.0
+  48399       2 [kworker/6:0-events]         0.0  0.0
+  48458       2 [kworker/u16:4-events_unbou  0.0  0.0
+  49829       2 [kworker/4:2-events]         0.0  0.0
+  49857       2 [kworker/u16:0-ext4-rsv-con  0.0  0.0
+  49990       2 [kworker/7:1-events]         0.0  0.0
+  50038       2 [kworker/u16:1-events_unbou  0.0  0.0
+  50118       2 [kworker/0:2]                0.0  0.0
+  50185       2 [kworker/2:1-mm_percpu_wq]   0.0  0.0
+  50218       2 [kworker/3:3-cgroup_destroy  0.0  0.0
+  50314       2 [kworker/1:2-events]         0.0  0.0
+  50373       2 [kworker/u16:2-flush-253:0]  0.0  0.0
