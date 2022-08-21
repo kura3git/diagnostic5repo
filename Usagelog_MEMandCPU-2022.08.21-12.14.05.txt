@@ -178,11 +178,12 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
-  46328   46324 ps -e --format pid,ppid,cmd  0.1  0.0
+  46334   46331 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   46317   46315 /bin/bash /home/blouie1/bin  0.1  0.0
   46324   46323 /bin/bash /home/blouie1/bin  0.1  0.0
+  46331   46330 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
@@ -320,7 +321,7 @@
     695       2 [jbd2/vda2-8]                0.0  0.0
     696       2 [ext4-rsv-conver]            0.0  0.0
   36897       2 [kworker/6:0-events]         0.0  0.0
-  38811       2 [kworker/1:0-mm_percpu_wq]   0.0  0.0
+  38811       2 [kworker/1:0-events]         0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
   40256       2 [kworker/7:1-cgroup_destroy  0.0  0.0
   40666       2 [kworker/u16:0-ext4-rsv-con  0.0  0.0
