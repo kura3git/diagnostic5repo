@@ -88,6 +88,8 @@
     812       1 /usr/libexec/polkitd --no-d  0.2  0.0
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
    3155    1593 /usr/bin/snap userd          0.2  0.0
+  46972   46968 /usr/bin/ssh git@github.com  0.2  0.0
+  46974   46971 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
   39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
     804       1 /usr/sbin/NetworkManager --  0.2  0.0
@@ -152,6 +154,7 @@
    1807    1593 /usr/libexec/evolution-sour  0.1  0.0
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39924   39917 /usr/bin/dbus-daemon --conf  0.1  0.0
+  46971   46935 git push origin main         0.1  0.0
   39817   39780 /usr/libexec/gvfsd-fuse /ru  0.1  0.0
   46968   46942 git push origin main         0.1  0.0
   46944     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -181,7 +184,7 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
-  46964   46959 ps -e --format pid,ppid,cmd  0.1  0.0
+  46975   46969 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   46935   46934 /bin/bash /home/blouie1/bin  0.1  0.0
