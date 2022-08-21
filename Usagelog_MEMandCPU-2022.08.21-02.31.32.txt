@@ -126,6 +126,7 @@
    1842    1615 /usr/libexec/gvfsd-trash --  0.1  0.0
    1610       1 /usr/bin/gnome-keyring-daem  0.1  0.0
    1910    1866 /usr/bin/ibus-daemon --pane  0.1  0.1
+  44727   44709 git commit -m added Mem and  0.1  0.0
    1888    1593 /usr/libexec/gsd-print-noti  0.1  0.0
     826       1 /usr/libexec/accounts-daemo  0.1  0.0
     868       1 /usr/sbin/ModemManager       0.1  0.0
@@ -178,11 +179,12 @@
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  44720   44716 ps -e --format pid,ppid,cmd  0.1  0.0
+  44726   44723 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   35690    2297 bash                         0.1  0.0
   44716   44715 /bin/bash /home/blouie1/bin  0.1  0.0
+  44723   44722 /bin/bash /home/blouie1/bin  0.1  0.0
   44709   44708 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
@@ -320,7 +322,7 @@
     695       2 [jbd2/vda2-8]                0.0  0.0
     696       2 [ext4-rsv-conver]            0.0  0.0
   36897       2 [kworker/6:0-cgroup_destroy  0.0  0.0
-  38811       2 [kworker/1:0-mm_percpu_wq]   0.0  0.0
+  38811       2 [kworker/1:0-events]         0.0  0.0
   39592       2 [kworker/4:0-events]         0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
   40256       2 [kworker/7:1-events]         0.0  0.0
