@@ -155,6 +155,7 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  42405     955 /usr/sbin/CRON -f -P         0.1  0.0
   42399     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
@@ -177,11 +178,12 @@
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  42401   42397 ps -e --format pid,ppid,cmd  0.1  0.0
   35690    2297 bash                         0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
+  42408   42404 ps -e --format pid,ppid,cmd  0.1  0.0
   42397   42395 /bin/bash /home/blouie1/bin  0.1  0.0
+  42404   42403 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
@@ -207,6 +209,8 @@
     984       1 /usr/sbin/kerneloops --test  0.0  0.0
   39808   39792 dbus-run-session -- gnome-s  0.0  0.0
    1594    1593 (sd-pam)                     0.0  0.0
+  42403   42399 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  42409   42405 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42395   42393 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
@@ -324,7 +328,7 @@
   39592       2 [kworker/4:0-mm_percpu_wq]   0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
   40256       2 [kworker/7:1-events]         0.0  0.0
-  40666       2 [kworker/u16:0-events_unbou  0.0  0.0
+  40666       2 [kworker/u16:0-ext4-rsv-con  0.0  0.0
   40724       2 [kworker/7:2-cgroup_destroy  0.0  0.0
   40749       2 [kworker/u16:3-events_unbou  0.0  0.0
   40843       2 [kworker/0:0-events]         0.0  0.0
