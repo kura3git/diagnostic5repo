@@ -157,6 +157,7 @@
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
   41628     955 /usr/sbin/CRON -f -P         0.1  0.0
   41621     955 /usr/sbin/CRON -f -P         0.1  0.0
+  41636     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
   41616     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -177,12 +178,13 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41631   41627 ps -e --format pid,ppid,cmd  0.1  0.0
+  41639   41634 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   41627   41626 /bin/bash /home/blouie1/bin  0.1  0.0
+  41634   41632 /bin/bash /home/blouie1/bin  0.1  0.0
   41620   41619 /bin/bash /home/blouie1/bin  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
@@ -212,6 +214,7 @@
   41619   41616 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41626   41621 /bin/sh -c /home/blouie1/bi  0.0  0.0
   41632   41628 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  41641   41636 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
