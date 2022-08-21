@@ -177,13 +177,14 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41470   41466 ps -e --format pid,ppid,cmd  0.1  0.0
+  41476   41473 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   41459   41457 /bin/bash /home/blouie1/bin  0.1  0.0
   41466   41464 /bin/bash /home/blouie1/bin  0.1  0.0
+  41473   41472 /bin/bash /home/blouie1/bin  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
@@ -324,7 +325,7 @@
   38125       2 [kworker/2:0-events]         0.0  0.0
   38748       2 [kworker/u16:5-events_power  0.0  0.0
   38811       2 [kworker/1:0-mm_percpu_wq]   0.0  0.0
-  39182       2 [kworker/0:2-mm_percpu_wq]   0.0  0.0
+  39182       2 [kworker/0:2-events]         0.0  0.0
   39207       2 [kworker/u16:1-flush-253:0]  0.0  0.0
   39422       2 [kworker/u16:2-flush-253:0]  0.0  0.0
   39592       2 [kworker/4:0-mm_percpu_wq]   0.0  0.0
