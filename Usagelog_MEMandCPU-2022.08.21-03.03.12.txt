@@ -155,8 +155,10 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  45009   44976 git push origin main         0.1  0.0
   44977     955 /usr/sbin/CRON -f -P         0.1  0.0
   44991     955 /usr/sbin/CRON -f -P         0.1  0.0
+  45001     955 /usr/sbin/CRON -f -P         0.1  0.0
   44972     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
   44984     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -179,13 +181,14 @@
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  44995   44990 ps -e --format pid,ppid,cmd  0.1  0.0
+  45005   45000 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   35690    2297 bash                         0.1  0.0
   44983   44982 /bin/bash /home/blouie1/bin  0.1  0.0
   44990   44988 /bin/bash /home/blouie1/bin  0.1  0.0
   44976   44974 /bin/bash /home/blouie1/bin  0.1  0.0
+  45000   44997 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
@@ -215,6 +218,7 @@
   44974   44972 /bin/sh -c /home/blouie1/bi  0.0  0.0
   44982   44977 /bin/sh -c /home/blouie1/bi  0.0  0.0
   44988   44984 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  45007   45001 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
