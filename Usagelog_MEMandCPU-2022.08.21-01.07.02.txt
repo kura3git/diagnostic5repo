@@ -88,6 +88,8 @@
   39775    1014 gdm-session-worker [pam/gdm  0.2  0.0
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
   42143       1 /usr/sbin/cups-browsed       0.2  0.0
+  43727   43723 /usr/bin/ssh git@github.com  0.2  0.0
+  43728   43722 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
   39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
     804       1 /usr/sbin/NetworkManager --  0.2  0.0
@@ -153,6 +155,8 @@
    1880    1593 /usr/libexec/gsd-housekeepi  0.1  0.0
    1807    1593 /usr/libexec/evolution-sour  0.1  0.0
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
+  43722   43689 git push origin main         0.1  0.0
+  43723   43696 git push origin main         0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
   43697     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -180,11 +184,12 @@
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  43718   43713 ps -e --format pid,ppid,cmd  0.1  0.0
+  43729   43724 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   35690    2297 bash                         0.1  0.0
   43689   43688 /bin/bash /home/blouie1/bin  0.1  0.0
+  43724   43720 /bin/bash /home/blouie1/bin  0.1  0.0
   43713   43709 /bin/bash /home/blouie1/bin  0.1  0.0
   43696   43695 /bin/bash /home/blouie1/bin  0.1  0.0
   43703   43701 /bin/bash /home/blouie1/bin  0.1  0.0
@@ -331,12 +336,12 @@
   39182       2 [kworker/0:2-cgroup_destroy  0.0  0.0
   39592       2 [kworker/4:0-events]         0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
-  40256       2 [kworker/7:1-mm_percpu_wq]   0.0  0.0
+  40256       2 [kworker/7:1-events]         0.0  0.0
   40666       2 [kworker/u16:0-events_unbou  0.0  0.0
   40724       2 [kworker/7:2-cgroup_destroy  0.0  0.0
   40749       2 [kworker/u16:3-ext4-rsv-con  0.0  0.0
   40843       2 [kworker/0:0-events]         0.0  0.0
-  40871       2 [kworker/5:1-mm_percpu_wq]   0.0  0.0
+  40871       2 [kworker/5:1-events]         0.0  0.0
   40872       2 [kworker/3:2-events]         0.0  0.0
   41002       2 [kworker/1:1]                0.0  0.0
   41091       2 [kworker/2:1-cgroup_destroy  0.0  0.0
