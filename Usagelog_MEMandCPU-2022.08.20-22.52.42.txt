@@ -48,8 +48,8 @@
     510       1 /sbin/multipathd -d -s       0.8  0.0
   39856   39780 /usr/libexec/goa-daemon      0.8  0.0
    1961    1729 /usr/bin/Xwayland :0 -rootl  0.8  0.9
-  40095       1 /usr/bin/gjs /usr/share/gno  0.7  0.0
     462       1 /lib/systemd/systemd-journa  0.7  0.0
+  40095       1 /usr/bin/gjs /usr/share/gno  0.7  0.0
   39979   39812 /usr/libexec/gsd-color       0.7  0.0
   39997   39812 /usr/libexec/gsd-media-keys  0.7  0.0
   39962       1 /usr/bin/gjs /usr/share/gno  0.7  0.0
@@ -156,6 +156,7 @@
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
   41322     955 /usr/sbin/CRON -f -P         0.1  0.0
+  41337     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
   41316     955 /usr/sbin/CRON -f -P         0.1  0.0
   41329     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -177,13 +178,14 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  41331   41327 ps -e --format pid,ppid,cmd  0.1  0.0
+  41339   41334 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   41320   41319 /bin/bash /home/blouie1/bin  0.1  0.0
   41327   41325 /bin/bash /home/blouie1/bin  0.1  0.0
+  41334   41332 /bin/bash /home/blouie1/bin  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.1  0.0
