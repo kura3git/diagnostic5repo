@@ -88,6 +88,7 @@
   39775    1014 gdm-session-worker [pam/gdm  0.2  0.0
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
   42143       1 /usr/sbin/cups-browsed       0.2  0.0
+  45137   45130 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
   39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
     804       1 /usr/sbin/NetworkManager --  0.2  0.0
@@ -153,6 +154,7 @@
    1880    1593 /usr/libexec/gsd-housekeepi  0.1  0.0
    1807    1593 /usr/libexec/evolution-sour  0.1  0.0
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
+  45130   45098 git push origin main         0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
   45100     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -180,13 +182,14 @@
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  45127   45121 ps -e --format pid,ppid,cmd  0.1  0.0
+  45135   45132 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   35690    2297 bash                         0.1  0.0
   45098   45097 /bin/bash /home/blouie1/bin  0.1  0.0
   45105   45104 /bin/bash /home/blouie1/bin  0.1  0.0
   45121   45120 /bin/bash /home/blouie1/bin  0.1  0.0
+  45132   45128 /bin/bash /home/blouie1/bin  0.1  0.0
   45113   45110 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
@@ -214,6 +217,7 @@
   39808   39792 dbus-run-session -- gnome-s  0.0  0.0
    1594    1593 (sd-pam)                     0.0  0.0
   45097   45094 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  45128   45123 /bin/sh -c /home/blouie1/bi  0.0  0.0
   45104   45100 /bin/sh -c /home/blouie1/bi  0.0  0.0
   45110   45106 /bin/sh -c /home/blouie1/bi  0.0  0.0
   45120   45114 /bin/sh -c /home/blouie1/bi  0.0  0.0
