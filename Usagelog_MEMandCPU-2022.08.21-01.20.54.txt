@@ -1,6 +1,6 @@
     PID    PPID CMD                         %MEM %CPU
   17231    6250 /snap/firefox/1671/usr/lib/ 13.9  1.1
-   6250    1729 /snap/firefox/1671/usr/lib/ 13.5 11.4
+   6250    1729 /snap/firefox/1671/usr/lib/ 13.6 11.4
    1729    1593 /usr/bin/gnome-shell         6.4 18.1
   39832   39812 /usr/bin/gnome-shell         5.2  0.7
   32854    6250 /snap/firefox/1671/usr/lib/  4.8  1.7
@@ -58,9 +58,9 @@
    7505    6250 /snap/firefox/1671/usr/lib/  0.6  0.0
   39969   39812 /usr/libexec/gsd-wacom       0.6  0.0
   39981   39812 /usr/libexec/gsd-keyboard    0.5  0.0
+   1644    1593 /usr/libexec/tracker-miner-  0.5  0.0
   39790   39780 /usr/bin/pulseaudio --daemo  0.5  0.0
   39836   39780 /usr/libexec/tracker-miner-  0.5  0.0
-   1644    1593 /usr/libexec/tracker-miner-  0.4  0.0
     816       1 /usr/lib/snapd/snapd         0.4  0.0
   39990   39812 /usr/libexec/gsd-datetime    0.3  0.0
   39812   39808 /usr/libexec/gnome-session-  0.3  0.0
@@ -155,9 +155,9 @@
    1894    1593 /usr/libexec/gsd-sharing     0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
-  43932     955 /usr/sbin/CRON -f -P         0.1  0.0
+  43971     955 /usr/sbin/CRON -f -P         0.1  0.0
+  43976     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
-  43927     955 /usr/sbin/CRON -f -P         0.1  0.0
    2211    1593 /usr/libexec/gvfsd-metadata  0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
    1756    1593 /usr/libexec/gvfs-mtp-volum  0.1  0.0
@@ -177,13 +177,12 @@
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  43940   43938 ps -e --format pid,ppid,cmd  0.1  0.0
+  43980   43975 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   35690    2297 bash                         0.1  0.0
-  43931   43930 /bin/bash /home/blouie1/bin  0.1  0.0
+  43975   43973 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
-  43938   43937 /bin/bash /home/blouie1/bin  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
     882       1 /usr/bin/python3 /usr/share  0.0  0.0
@@ -208,8 +207,8 @@
     984       1 /usr/sbin/kerneloops --test  0.0  0.0
   39808   39792 dbus-run-session -- gnome-s  0.0  0.0
    1594    1593 (sd-pam)                     0.0  0.0
-  43937   43932 /bin/sh -c /home/blouie1/bi  0.0  0.0
-  43930   43927 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  43973   43971 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  43982   43976 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -321,21 +320,21 @@
   38125       2 [kworker/2:0-cgroup_destroy  0.0  0.0
   38811       2 [kworker/1:0-events]         0.0  0.0
   39182       2 [kworker/0:2-cgroup_destroy  0.0  0.0
-  39592       2 [kworker/4:0-events]         0.0  0.0
+  39592       2 [kworker/4:0-mm_percpu_wq]   0.0  0.0
   39784       2 [kworker/5:0-cgwb_release]   0.0  0.0
-  40256       2 [kworker/7:1-mm_percpu_wq]   0.0  0.0
-  40666       2 [kworker/u16:0-ext4-rsv-con  0.0  0.0
+  40256       2 [kworker/7:1-events]         0.0  0.0
+  40666       2 [kworker/u16:0-flush-253:0]  0.0  0.0
   40724       2 [kworker/7:2-cgroup_destroy  0.0  0.0
-  40749       2 [kworker/u16:3-events_unbou  0.0  0.0
+  40749       2 [kworker/u16:3-writeback]    0.0  0.0
   40843       2 [kworker/0:0-events]         0.0  0.0
-  40871       2 [kworker/5:1-events]         0.0  0.0
+  40871       2 [kworker/5:1-mm_percpu_wq]   0.0  0.0
   40872       2 [kworker/3:2-events]         0.0  0.0
   41002       2 [kworker/1:1]                0.0  0.0
   41091       2 [kworker/2:1-cgroup_destroy  0.0  0.0
   41454       2 [kworker/4:2]                0.0  0.0
-  41983       2 [kworker/u16:4-flush-253:0]  0.0  0.0
-  41984       2 [kworker/u16:6-ext4-rsv-con  0.0  0.0
-  42135       2 [kworker/6:1-mm_percpu_wq]   0.0  0.0
+  41983       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
+  41984       2 [kworker/u16:6-events_unbou  0.0  0.0
+  42135       2 [kworker/6:1-events]         0.0  0.0
   42153       2 [kworker/3:1-events]         0.0  0.0
   43627       2 [kworker/2:2-events]         0.0  0.0
   43679       2 [kworker/u16:1-ext4-rsv-con  0.0  0.0
