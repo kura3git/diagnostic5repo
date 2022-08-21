@@ -177,9 +177,10 @@
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
    1728    1593 /usr/libexec/goa-identity-s  0.1  0.0
+  46195   46193 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
-  46190   46186 ps -e --format pid,ppid,cmd  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
+  46193   46191 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
   46186   46184 /bin/bash /home/blouie1/bin  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
@@ -324,7 +325,7 @@
   40843       2 [kworker/0:0-cgroup_destroy  0.0  0.0
   40871       2 [kworker/5:1-kdmflush]       0.0  0.0
   41091       2 [kworker/2:1-cgroup_destroy  0.0  0.0
-  41983       2 [kworker/u16:4-events_unbou  0.0  0.0
+  41983       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
   41984       2 [kworker/u16:6-flush-253:0]  0.0  0.0
   42153       2 [kworker/3:1-events]         0.0  0.0
   43679       2 [kworker/u16:1-events_unbou  0.0  0.0
@@ -332,7 +333,7 @@
   44106       2 [kworker/6:2-cgroup_destroy  0.0  0.0
   44289       2 [kworker/u16:2-ext4-rsv-con  0.0  0.0
   44546       2 [kworker/4:1-events]         0.0  0.0
-  44848       2 [kworker/2:0-mm_percpu_wq]   0.0  0.0
+  44848       2 [kworker/2:0-events]         0.0  0.0
   44918       2 [kworker/3:0-cgroup_destroy  0.0  0.0
   45075       2 [kworker/7:0-events]         0.0  0.0
   45089       2 [kworker/u16:3-flush-253:0]  0.0  0.0
