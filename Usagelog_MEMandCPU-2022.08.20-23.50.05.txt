@@ -159,6 +159,7 @@
   42011     955 /usr/sbin/CRON -f -P         0.1  0.0
   42016     955 /usr/sbin/CRON -f -P         0.1  0.0
   42023     955 /usr/sbin/CRON -f -P         0.1  0.0
+  42030     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
    2211    1593 /usr/libexec/gvfsd-metadata  0.1  0.0
@@ -178,11 +179,12 @@
    1856    1593 /usr/bin/gjs /usr/share/gno  0.1  0.0
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
-  42026   42022 ps -e --format pid,ppid,cmd  0.1  0.0
+  42034   42029 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   42015   42013 /bin/bash /home/blouie1/bin  0.1  0.0
+  42029   42028 /bin/bash /home/blouie1/bin  0.1  0.0
   42022   42021 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
@@ -213,6 +215,7 @@
   42021   42016 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42013   42011 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42028   42023 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  42036   42030 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
    1866    1593 sh -c /usr/bin/ibus-daemon   0.0  0.0
    1680    1593 /usr/libexec/gnome-session-  0.0  0.0
@@ -320,7 +323,7 @@
     632       2 [uas]                        0.0  0.0
     695       2 [jbd2/vda2-8]                0.0  0.0
     696       2 [ext4-rsv-conver]            0.0  0.0
-  36897       2 [kworker/6:0-mm_percpu_wq]   0.0  0.0
+  36897       2 [kworker/6:0-events]         0.0  0.0
   38125       2 [kworker/2:0-events]         0.0  0.0
   38748       2 [kworker/u16:5-ext4-rsv-con  0.0  0.0
   38811       2 [kworker/1:0-events]         0.0  0.0
@@ -345,3 +348,4 @@
   41982       2 [kworker/u16:2-ext4-rsv-con  0.0  0.0
   41983       2 [kworker/u16:4-ext4-rsv-con  0.0  0.0
   41984       2 [kworker/u16:6-flush-253:0]  0.0  0.0
+  42035   42015 [git] <defunct>              0.0  0.0
