@@ -87,6 +87,7 @@
     812       1 /usr/libexec/polkitd --no-d  0.2  0.0
    1885    1593 /usr/libexec/gsd-power       0.2  0.0
   39775    1014 gdm-session-worker [pam/gdm  0.2  0.0
+  42431   42428 /usr/bin/ssh git@github.com  0.2  0.0
    1884    1593 /usr/libexec/gsd-media-keys  0.2  0.0
   39967   39812 /usr/libexec/gsd-sharing     0.2  0.0
     804       1 /usr/sbin/NetworkManager --  0.2  0.0
@@ -156,6 +157,7 @@
   42428   42397 git push origin main         0.1  0.0
   39781   39780 (sd-pam)                     0.1  0.0
    1987    1910 /usr/libexec/ibus-engine-si  0.1  0.0
+  42437   42404 git push origin main         0.1  0.0
   42405     955 /usr/sbin/CRON -f -P         0.1  0.0
   42413     955 /usr/sbin/CRON -f -P         0.1  0.0
   42423     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -181,14 +183,15 @@
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  42427   42421 ps -e --format pid,ppid,cmd  0.1  0.0
+  42436   42433 ps -e --format pid,ppid,cmd  0.1  0.0
   35690    2297 bash                         0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
   42397   42395 /bin/bash /home/blouie1/bin  0.1  0.0
-  42404   42403 /bin/bash /home/blouie1/bin  0.1  0.0
   42412   42409 /bin/bash /home/blouie1/bin  0.1  0.0
   42421   42418 /bin/bash /home/blouie1/bin  0.1  0.0
+  42404   42403 /bin/bash /home/blouie1/bin  0.1  0.0
+  42433   42429 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
