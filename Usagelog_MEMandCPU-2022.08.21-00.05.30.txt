@@ -134,6 +134,7 @@
    1888    1593 /usr/libexec/gsd-print-noti  0.1  0.0
     826       1 /usr/libexec/accounts-daemo  0.1  0.0
     868       1 /usr/sbin/ModemManager       0.1  0.0
+  42246   42227 git commit -m added Mem and  0.1  0.0
    2235    1615 /usr/libexec/gvfsd-burn --s  0.1  0.0
    1828    1593 /usr/libexec/evolution-addr  0.1  0.0
   40009   39812 /usr/libexec/gsd-screensave  0.1  0.0
@@ -168,7 +169,9 @@
   42180     955 /usr/sbin/CRON -f -P         0.1  0.0
   42190     955 /usr/sbin/CRON -f -P         0.1  0.0
   42228     955 /usr/sbin/CRON -f -P         0.1  0.0
+  42243     955 /usr/sbin/CRON -f -P         0.1  0.0
    1891    1593 /usr/libexec/gsd-rfkill      0.1  0.0
+  42235     955 /usr/sbin/CRON -f -P         0.1  0.0
    1750    1593 /usr/libexec/gvfs-gphoto2-v  0.1  0.0
   42168     955 /usr/sbin/CRON -f -P         0.1  0.2
   42223     955 /usr/sbin/CRON -f -P         0.1  0.0
@@ -190,15 +193,17 @@
    1826    1593 /usr/libexec/dconf-service   0.1  0.0
    1741    1721 /usr/bin/dbus-daemon --conf  0.1  0.0
     814       1 /usr/sbin/rsyslogd -n -iNON  0.1  0.0
-  42231   42227 ps -e --format pid,ppid,cmd  0.1  0.0
     732       1 /lib/systemd/systemd-timesy  0.1  0.0
   35690    2297 bash                         0.1  0.0
    1630    1580 /usr/libexec/gdm-wayland-se  0.1  0.0
+  42247   42242 ps -e --format pid,ppid,cmd  0.1  0.0
   42172   42171 /bin/bash /home/blouie1/bin  0.1  0.0
   42179   42178 /bin/bash /home/blouie1/bin  0.1  0.0
   42186   42185 /bin/bash /home/blouie1/bin  0.1  0.0
-  42198   42195 /bin/bash /home/blouie1/bin  0.1  0.0
   42227   42226 /bin/bash /home/blouie1/bin  0.1  0.0
+  42242   42240 /bin/bash /home/blouie1/bin  0.1  0.0
+  42198   42195 /bin/bash /home/blouie1/bin  0.1  0.0
+  42234   42232 /bin/bash /home/blouie1/bin  0.1  0.0
    8120    6250 /snap/firefox/1671/usr/lib/  0.1  0.0
    1633    1630 /usr/libexec/gnome-session-  0.1  0.0
     802       1 avahi-daemon: running [kura  0.0  0.0
@@ -226,8 +231,10 @@
    1594    1593 (sd-pam)                     0.0  0.0
   42171   42168 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42226   42223 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  42248   42243 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42178   42173 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42185   42180 /bin/sh -c /home/blouie1/bi  0.0  0.0
+  42240   42235 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42232   42228 /bin/sh -c /home/blouie1/bi  0.0  0.0
   42195   42190 /bin/sh -c /home/blouie1/bi  0.0  0.0
    2037    2017 fusermount3 -o rw,nosuid,no  0.0  0.0
